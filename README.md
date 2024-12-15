@@ -8,7 +8,7 @@ Throughout the code, you will find `TODO` comments indicating places where chang
 
 ## Note
 
-This version of the code folder does not contain the data due to privacy concerns. If you want to run the code, please add the data to the `data` and `self_supervised/data` folder. The data should be in the form of `.csv` files with the following names:
+This version of the code folder does not contain the data due to privacy concerns. If you want to run the code, please create the `data` and `self_supervised/data` folders and add the datasets. The data should be in the form of `.csv` files with the following names:
 
 - "new_data_array_vk.csv" for the full dataset
 - "DataSplit_Benchmark_vk.csv" for the Benchmark subset
